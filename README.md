@@ -1,2 +1,2 @@
-# 书签
-https://make.quwj.com/member/708/bookmarks
+# notes
+[书签](https://make.quwj.com/member/708/bookmarks)
