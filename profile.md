@@ -13,6 +13,6 @@ Telegram：hmsjy2017
 
 GitHub：@hmsjy2017
 
-邮箱：i@iamsjy.com
+邮箱：[i@iamsjy.com](mailto:i@iamsjy.com) 
 
 爱好：编程、羽毛球、摄影
