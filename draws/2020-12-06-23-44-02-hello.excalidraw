@@ -1,0 +1,420 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://logseq.com",
+  "elements": [
+    {
+      "type": "draw",
+      "version": 82,
+      "versionNonce": 2083213799,
+      "isDeleted": false,
+      "id": "Z_43ipswbMQhHgqHmEE_e",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 163.00000000000003,
+      "y": 229.00000000000003,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 14,
+      "height": 173,
+      "seed": 958516585,
+      "groupIds": [],
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -14,
+          173
+        ]
+      ]
+    },
+    {
+      "type": "draw",
+      "version": 24,
+      "versionNonce": 2025951079,
+      "isDeleted": false,
+      "id": "5yc0iqEODfaZZTasDzqcs",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 156,
+      "y": 310,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 75,
+      "height": 5,
+      "seed": 743990281,
+      "groupIds": [],
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          21,
+          0
+        ],
+        [
+          75,
+          -5
+        ]
+      ]
+    },
+    {
+      "type": "draw",
+      "version": 32,
+      "versionNonce": 595747175,
+      "isDeleted": false,
+      "id": "y5NnHczp8xgXmWknx-n6j",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 238,
+      "y": 229,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 7,
+      "height": 156,
+      "seed": 426688137,
+      "groupIds": [],
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -6,
+          39
+        ],
+        [
+          -7,
+          133
+        ],
+        [
+          -5,
+          140
+        ],
+        [
+          -5,
+          156
+        ]
+      ]
+    },
+    {
+      "type": "draw",
+      "version": 43,
+      "versionNonce": 758555881,
+      "isDeleted": false,
+      "id": "yVOMk1WtT5hgsPco7zlNR",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 284,
+      "y": 340,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 83,
+      "height": 87,
+      "seed": 358354057,
+      "groupIds": [],
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          53,
+          4
+        ],
+        [
+          70,
+          -1
+        ],
+        [
+          76,
+          -10
+        ],
+        [
+          77,
+          -21
+        ],
+        [
+          71,
+          -27
+        ],
+        [
+          57,
+          -36
+        ],
+        [
+          34,
+          -38
+        ],
+        [
+          23,
+          -31
+        ],
+        [
+          12,
+          -16
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          29
+        ],
+        [
+          11,
+          36
+        ],
+        [
+          26,
+          45
+        ],
+        [
+          35,
+          48
+        ],
+        [
+          63,
+          49
+        ],
+        [
+          70,
+          47
+        ],
+        [
+          75,
+          43
+        ],
+        [
+          81,
+          36
+        ],
+        [
+          83,
+          36
+        ]
+      ]
+    },
+    {
+      "type": "draw",
+      "version": 24,
+      "versionNonce": 1806610281,
+      "isDeleted": false,
+      "id": "Jib3M80xhvAsBnoDNr2I5",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 427,
+      "y": 235,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 5,
+      "height": 165,
+      "seed": 1654733351,
+      "groupIds": [],
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          34
+        ],
+        [
+          -3,
+          82
+        ],
+        [
+          -3,
+          165
+        ],
+        [
+          2,
+          165
+        ]
+      ]
+    },
+    {
+      "type": "draw",
+      "version": 20,
+      "versionNonce": 197931049,
+      "isDeleted": false,
+      "id": "3TgBAXbfsQofSGwiXo0mo",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 486,
+      "y": 227,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 4,
+      "height": 182,
+      "seed": 1868896167,
+      "groupIds": [],
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          84
+        ],
+        [
+          -2,
+          116
+        ],
+        [
+          -3,
+          182
+        ]
+      ]
+    },
+    {
+      "type": "draw",
+      "version": 42,
+      "versionNonce": 58279049,
+      "isDeleted": false,
+      "id": "mQHNTXWAo2DiHaubBehzp",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 564,
+      "y": 311,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 90,
+      "height": 115,
+      "seed": 174916327,
+      "groupIds": [],
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -2,
+          22
+        ],
+        [
+          -2,
+          48
+        ],
+        [
+          -1,
+          57
+        ],
+        [
+          11,
+          85
+        ],
+        [
+          26,
+          96
+        ],
+        [
+          35,
+          100
+        ],
+        [
+          56,
+          101
+        ],
+        [
+          66,
+          97
+        ],
+        [
+          74,
+          89
+        ],
+        [
+          81,
+          78
+        ],
+        [
+          86,
+          67
+        ],
+        [
+          88,
+          55
+        ],
+        [
+          88,
+          29
+        ],
+        [
+          79,
+          17
+        ],
+        [
+          57,
+          -1
+        ],
+        [
+          33,
+          -13
+        ],
+        [
+          16,
+          -14
+        ],
+        [
+          8,
+          -11
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}
