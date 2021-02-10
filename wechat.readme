@@ -1,0 +1,2 @@
+touch /etc/lsb-release
+apt install ./com.qq.weixin_2.0.0-2_arm64-argon.deb -y
