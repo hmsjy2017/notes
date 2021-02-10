@@ -1,0 +1,35 @@
+Windows 10 (business edition), version 20H2 (updated Jan 2021) (x64) - DVD (Chinese-Simplified) 
+
+ed2k://|file|cn_windows_10_business_editions_version_20h2_updated_jan_2021_x64_dvd_b6eb1ee6.iso|6025357312|59B9788D4AA91EA4DA6FB25711CAC8C8|/
+
+magnet:?xt=urn:btih:9102DC7F7ED0304C9EB67472AFBD8F9305FF252D&dn=cn_windows_10_business_editions_version_20h2_updated_jan_2021_x64_dvd_b6eb1ee6.iso&xl=6025357312
+
+Windows 10 (business edition), version 20H2 (updated Jan 2021) (x86) - DVD (Chinese-Simplified)
+
+ed2k://|file|cn_windows_10_business_editions_version_20h2_updated_jan_2021_x86_dvd_6e0c098e.iso|4432150528|4DE6A91E5C9E6117B8B8D59E867D53BE|/
+
+magnet:?xt=urn:btih:D69BD1CE857BE5C63456C9F6E32951707DC90487&dn=cn_windows_10_business_editions_version_20h2_updated_jan_2021_x86_dvd_6e0c098e.iso&xl=4432150528
+
+Windows 10 (consumer edition), version 20H2 (updated Jan 2021) (x64) - DVD (Chinese-Simplified)
+
+ed2k://|file|cn_windows_10_consumer_editions_version_20h2_updated_jan_2021_x64_dvd_0af89254.iso|6189598720|D478F8B7C7063A5A8A3CC20026917233|/
+
+magnet:?xt=urn:btih:4BCBFECC244E8D04DA754553329EFFB95B4D99ED&dn=cn_windows_10_consumer_editions_version_20h2_updated_jan_2021_x64_dvd_0af89254.iso&xl=6189598720
+
+Windows 10 (consumer edition), version 20H2 (updated Jan 2021) (x86) - DVD (Chinese-Simplified)
+
+ed2k://|file|cn_windows_10_consumer_editions_version_20h2_updated_jan_2021_x86_dvd_bd5d62ca.iso|4536780800|8AC38F94C6F3869E21C9ACC43970E3A1|/
+
+magnet:?xt=urn:btih:884A9551384F13178C482C2617C1FDA6CE660F5B&dn=cn_windows_10_consumer_editions_version_20h2_updated_jan_2021_x86_dvd_bd5d62ca.iso&xl=4536780800
+
+Windows 10, Version 2004 (Updated May 2020) (ARM64) - DVD (Chinese-Simplified)
+
+magnet:?xt=urn:btih:2297A03A1B999CBD30C8E7AE69BA20A498AC906A&dn=SW_DVD9_Win_Pro_10_2004_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_-2_X22-29707.ISO&xl=4524568576
+
+macOS Catalina 10.15.7 (19H2) （无第三方引导）
+
+magnet:?xt=urn:btih:8FE3D5E14715C6F2C60B6433AF230A281CFDF8DD&dn=macOS Catalina 10.15.7 19H2.dmg&xl=8278775785
+
+macOS Catalina 10.15.6 (19G2021) （无第三方引导）
+
+magnet:?xt=urn:btih:782AC70F6A0472E16A29330075933D3A1D26D664&dn=macOS Catalina 10.15.6 19G2021.dmg&xl=8278727342
